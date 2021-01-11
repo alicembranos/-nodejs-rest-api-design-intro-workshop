@@ -93,6 +93,18 @@ For this workshop you should have installed MongoDB Compass which is the officia
 
 <img src='src/img/mongo-db-compass.png' width='600' alt='promise states'>
 
+### Heroku CLI
+
+In order to be able to keep up with the workshop you will need to have previously installed the Heroku CLI.
+
+Follow the instructions in the [official docs](https://devcenter.heroku.com/articles/heroku-cli) and make sure that it is working before the day of the workshop.
+
+To verify that it works run the following command from the terminal:
+
+```bash
+$ heroku --version
+```
+
 ### Project Dependencies
 
 Then, you will have to install all the project dependencies with npm in the root folder:
