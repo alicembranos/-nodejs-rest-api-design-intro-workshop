@@ -101,7 +101,7 @@ async function getSingleBook() {}
  *     title
  *     pages
  *
- * You can use the `.findOneAndModify()` method
+ * You can use the `.findOneAndUpdate()` method
  *
  * @note
  * you will have to return the `new` updated document
